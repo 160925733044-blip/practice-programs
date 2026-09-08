@@ -1,0 +1,11 @@
+
+def check(n):
+    if n > 0:
+        print("Positive")
+    elif n < 0:
+        print("Negative")
+    else:
+        print("Equal to zero")
+check(int(input("enter a number")))
+check(int(input("enter a number")))
+check(int(input("enter a number")))
